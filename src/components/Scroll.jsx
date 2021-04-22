@@ -1,5 +1,4 @@
 const Scroll = (props)=>{
-	console.log(props);
 	return (
 		<div style={{
 			overflow:'scroll',
